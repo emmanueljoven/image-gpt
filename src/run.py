@@ -9,6 +9,7 @@ import time
 import numpy as np
 import tensorflow as tf
 
+
 from imageio import imwrite
 from scipy.special import softmax
 from tensorflow.contrib.training import HParams
